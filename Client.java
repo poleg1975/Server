@@ -1,4 +1,4 @@
-// Check GIT
+// Комментарий для GIT
 
 import java.net.*;
 import java.io.*;
